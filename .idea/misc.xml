@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Black">
-    <option name="sdkName" value="melon-ticket-reservation-manager" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="melon-ticket-reservation-manager" project-jdk-type="Python SDK" />
-</project>
